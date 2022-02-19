@@ -1,0 +1,79 @@
+body{
+    background-color: silver;
+    }
+    h1{
+        margin: auto;
+        text-align: center;
+        text-shadow: 1px 1px 0px white;
+        font-size: 3em;
+    }
+   h2{     
+    margin:20px 20px 20px 20px;
+    padding: 10px;
+    text-align: center;
+    /*text-shadow: 1px 1px 0px white; */    
+    font-size: 2em;
+    text-shadow: 1px 1px 0px white;
+    
+}  
+
+.img1{
+    text-align: center;
+ 
+}
+
+
+.paragrafo2{
+    
+    width: 500px;
+    height: 300px;
+    text-align: justify;
+    font-size: 20pt;
+    padding: 30px;
+    margin-top: 10px;
+
+}   
+p{
+    text-align: center;
+}
+
+a{
+    text-align: center;
+}
+
+.contato{
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 1px 1px 0px white;
+    
+
+
+}
+
+/* css mobile */
+
+@media ( max-width: 400px){
+    h2{
+        font-size: 12pt;        
+        padding: 20px;
+        text-shadow: 1px 1px 0px white;
+    }
+
+    h1{
+        font-size: 16pt;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+   .img1{
+       text-align: center;
+   }
+   .contato{
+       text-align: center;
+       text-decoration: none;
+   }
+    
+}
+
+
+
