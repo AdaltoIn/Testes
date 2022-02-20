@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(34, 201, 212);
+}
+h1{
+    font-size: 16pt;
+    text-align: center;
+}
+.img1{
+    margin-left: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.img2{
+    margin-left: 20px;
+}
+.img3{
+    margin-left: 20px;
+}
+.home{
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 16pt;
+}
+a::before{
+    color: red;
+}
+
