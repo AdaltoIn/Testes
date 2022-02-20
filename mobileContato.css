@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(23, 165, 201);
+}
+h1{
+    font-weight: lighter;
+    padding-left: 15px;
+    padding-right: 55px;
+}
+#whats{
+     font-size: 16pt;
+     padding-top: 2px;
+     padding-left: 20px;
+     padding-right: 50px;
+
+}
+#email{
+    font-size: 16pt;
+    padding-top: 2px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+h3{
+    font-size: 8pt;
+    padding-top: 2px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+.content{
+    background-color: rgb(4, 196, 196);
+    align-items: center;
+    
+}
+
+.voltar{
+    text-align: center;
+}
