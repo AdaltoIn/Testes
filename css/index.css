@@ -1,0 +1,36 @@
+
+#menu{
+    visibility: visible;
+}
+.navbar-toggler{
+    visibility: hidden;
+}
+.navbar{
+    height: 90px;
+}
+.img1{
+    text-align: center;
+}
+.list{
+    text-align: center;
+}
+.center{
+    font-weight: bold;
+    font-size: 20pt;
+}
+.field{
+    font-weight: bold;
+    color: orange;
+}
+ul > li{
+    font-weight: bold;
+}
+.rodape{
+    text-align: center;
+    height: 80px;
+    background-color: rgb(96, 96, 226);
+    padding-top: 30px;
+    font-weight: bold;
+    color: white;
+}
+  
